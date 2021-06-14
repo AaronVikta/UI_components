@@ -78,6 +78,7 @@
     margin: 3% 10% 4% 10%;
     /* position: fixed; */
     display: flex;
+    cursor: pointer;
     justify-content: center;
     align-items: center;
     color: #fff;
